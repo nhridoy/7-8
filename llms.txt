@@ -1,0 +1,31 @@
+# Quran Audio — Surahs 7, 8
+
+> Quran MP3 collection for Surahs 7, 8 by 17 reciters.
+
+## Surahs
+- 7
+- 8
+
+## Reciters
+- ar.abdullahbasfar
+- ar.abdulsamad
+- ar.abdurrahmaansudais
+- ar.ahmedajamy
+- ar.alafasy
+- ar.aymanswoaid
+- ar.hanirifai
+- ar.hudhaify
+- ar.husary
+- ar.husarymujawwad
+- ar.ibrahimakhbar
+- ar.mahermuaiqly
+- ar.muhammadayyoub
+- ar.muhammadjibreel
+- ar.parhizgar
+- ar.saoodshuraym
+- ar.shaatree
+
+## CDN Links
+- jsDelivr: https://cdn.jsdelivr.net/gh/nhridoy/7-8@main/{surah_number}/{reciter}/{ayah_number}.mp3
+- GitHub Raw: https://raw.githubusercontent.com/nhridoy/7-8/refs/heads/main/{surah_number}/{reciter}/{ayah_number}.mp3
+- Statically: https://cdn.statically.io/gh/nhridoy/7-8@main/{surah_number}/{reciter}/{ayah_number}.mp3
